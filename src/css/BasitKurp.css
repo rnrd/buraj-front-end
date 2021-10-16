@@ -1,0 +1,68 @@
+.basitkurp-container-1
+{
+    margin-top: 3%;
+}
+
+.basitkurp-card
+{
+    background-color: white;
+    border-style: inset;
+    border-color: black;
+}
+
+.card-container
+{
+    margin-top: 3%;
+}
+
+.basitkurp-cardtitle
+{
+    padding-top: 3%;
+    justify-content: center;
+    text-align: center;
+}
+
+.basitkurp-h2-card
+{
+    text-align: center;
+}
+
+.basitkurp-container-2
+{
+    margin-top: 1%;
+}
+
+.formgroup
+{
+    justify-content: center;
+    text-align: start;
+   
+}
+
+.input-col
+{
+    margin-top: 2%;
+    
+}
+
+.label
+{
+    margin-bottom: 2%;
+}
+
+.input
+{
+    text-align: center;
+    margin-bottom: 1%;
+}
+
+.input-button
+{
+    margin-top: 3%;
+}
+
+.input-alert
+{
+    margin-top: 1%;
+}
+
